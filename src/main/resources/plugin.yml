@@ -1,0 +1,9 @@
+name: LandLister-Addon
+version: '1.0-SNAPSHOT'
+main: io.github.hugo1307.landlister.LandListerAddon
+api-version: '1.18'
+prefix: LandLister-Addon
+author: Hugo1307
+description: An example addon for LandGuard plugin. Created using LandGuard API.
+depend:
+  - LandGuard
